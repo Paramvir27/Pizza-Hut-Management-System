@@ -1,0 +1,150 @@
+______________________________________________________________________________
+
+ CUSTOMER NAME = Paramvir
+ MOBILE NUMBER = 7009226916
+ ORDER ID = 13
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.DOUBLE CHEESE MARGHERITA PIZZA	SMALL	200	2		400
+ 2.FARM HOUSE PIZZA              	SMALL	250	2		500
+ 3.MARGHERITA PIZZA               	LARGE	200	2		400
+ 
+ GST 18%    = Rs 234
+ TOTAL BILL = Rs 1534
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Amit
+ MOBILE NUMBER = 8009224042
+ ORDER ID = 12
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.SPICY TANGO PIZZA              	LARGE	250	3		750
+ 2.FARM HOUSE PIZZA              	MEDIUM	300	4		1200
+ 
+ GST 18%    = Rs 351
+ TOTAL BILL = Rs 2301
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Amanjot
+ MOBILE NUMBER = 8944393393
+ ORDER ID = 12
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.SPICY TANGO PIZZA              	LARGE	250	1		250
+ 2.DOUBLE CHEESE MARGHERITA PIZZA	LARGE	300	10		3000
+ 
+ GST 18%    = Rs 585
+ TOTAL BILL = Rs 3835
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Manik
+ MOBILE NUMBER = 9888233443
+ ORDER ID = 11
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.DOUBLE CHEESE MARGHERITA PIZZA	MEDIUM	250	1		250
+ 
+ GST 18%    = Rs 45
+ TOTAL BILL = Rs 295
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Param
+ MOBILE NUMBER = 842232111
+ ORDER ID = 11
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.DOUBLE CHEESE MARGHERITA PIZZA	SMALL	200	2		400
+ 
+ GST 18%    = Rs 72
+ TOTAL BILL = Rs 472
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Gurnam
+ MOBILE NUMBER = 9876192032
+ ORDER ID = 100
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.SPICY TANGO PIZZA              	LARGE	250	2		500
+ 
+ GST 18%    = Rs 90
+ TOTAL BILL = Rs 590
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Anuj
+ MOBILE NUMBER = 73074985646
+ ORDER ID = 100
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.MARGHERITA PIZZA               	LARGE	200	3		600
+ 
+ GST 18%    = Rs 108
+ TOTAL BILL = Rs 708
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = parveen
+ MOBILE NUMBER = 987
+ ORDER ID = 100
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.MARGHERITA PIZZA              	MEDIUM	150	3		450
+ 2.SPICY TANGO PIZZA              	LARGE	250	1		250
+ 
+ GST 18%    = Rs 126
+ TOTAL BILL = Rs 826
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Ashish
+ MOBILE NUMBER = 8596455656
+ ORDER ID = 100
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.FARM HOUSE PIZZA              	LARGE	400	2		800
+ 
+ GST 18%    = Rs 144
+ TOTAL BILL = Rs 944
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Parveen
+ MOBILE NUMBER = 855555655245
+ ORDER ID = 100
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.DOUBLE CHEESE MARGHERITA PIZZA	LARGE	300	3		900
+ 
+ GST 18%    = Rs 162
+ TOTAL BILL = Rs 1062
+
+______________________________________________________________________________
+______________________________________________________________________________
+
+ CUSTOMER NAME = Heena
+ MOBILE NUMBER = 7328912102
+ ORDER ID = 100
+
+No. NAME				TYPE	COST	QUANTITY	TOTAL
+ 1.DOUBLE CHEESE MARGHERITA PIZZA	MEDIUM	250	5		1250
+ 2.SPICY TANGO PIZZA             	SMALL	150	30		4500
+ 
+ GST 18%    = Rs 1035
+ TOTAL BILL = Rs 6785
+
+______________________________________________________________________________
+
